@@ -1,0 +1,10 @@
+*.dll
+Serum.exe
+*.vst3
+*__pycache__/
+*.venv/
+*.names
+final_project_code/README.md
+
+*.weights
+*.cfg
